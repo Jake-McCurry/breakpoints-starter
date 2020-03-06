@@ -1,0 +1,17 @@
+body {
+  background: rgb(226, 233, 125);
+}
+
+/* ----------- Tablets larger than 768px wide ----------- */
+@media (min-width: 768px) {
+	body {
+    background: rgb(148, 102, 102);
+  }
+}
+
+/* ----------- Monitors larger than 1200px wide ----------- */
+@media (min-width: 1200px) {
+    body {
+      background: rgb(145, 133, 197);
+    }
+}
